@@ -1,1 +1,15 @@
-[class~=center]{color:white;}html,body{height:100%;}[class~=center]{text-align:center;}[class~=center]{display:flex;}html,body{background-color:black;}[class~=center]{justify-content:center;}
+/* 
+Basic CSS for a Simple Page, 
+Most of the purpose and work in done in JavaScript,
+so I didnt do much for the css
+*/
+body, html {
+    height: 100%;
+    background-color: black;
+  }
+  .center {
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
